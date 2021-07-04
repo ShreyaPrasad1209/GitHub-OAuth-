@@ -1,7 +1,7 @@
 {
   "name": "github-authentication",
   "version": "1.0.0",
-  "author": "Suraj roy",
+  "author": "Shreya Prasad",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
